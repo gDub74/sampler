@@ -1,2 +1,2 @@
 # sampler
-web audio interface for sampling and triggering samples
+javascript/react web audio interface for sampling and triggering samples
